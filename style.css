@@ -1,0 +1,10 @@
+button{
+    width: 70px;
+    height: 40px;
+    font-weight: 600 !important;
+    
+}
+tr{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
